@@ -1,1 +1,1 @@
-alert("NUEVA EDICION");
+alert("AHORA ES NUEVO");
